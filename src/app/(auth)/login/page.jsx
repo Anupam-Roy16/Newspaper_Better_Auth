@@ -33,7 +33,7 @@ const LoginPage = () => {
       alert(error.message);
     }
     if (res) {
-      alert("Signin  succesful");
+      alert("Signin  successful");
     }
   };
 
